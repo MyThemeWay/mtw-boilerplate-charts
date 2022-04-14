@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/16251546/162407671-f5204a55-326a-40e3-
 
 ## | Feature Overview
 
-### [Branch: master](https://github.com/MyThemeWay/mtw-boilerplate-charts/tree/master "Check it out")
+### [Branch: main](https://github.com/MyThemeWay/mtw-boilerplate-charts/tree/main "Check it out")
 
 <a href="https://github.com/nodejs/node" title="Check it out" target="_blank"><img height="26" alt="Node.js" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sitdisch/cloud/master/badges/json/nodejs.json&cacheSeconds=3600"/></a>
 <a title="Check it out" target="_blank" href="https://www.npmjs.com/package/esbuild"><img height="26" alt="esbuild" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-charts/esbuild?label=esbuild&logo=esbuild&cacheSeconds=3600" /></a>
