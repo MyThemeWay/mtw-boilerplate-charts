@@ -1,0 +1,21 @@
+{
+  "name": "mtw-boilerplate-charts",
+  "author": "Sitdisch",
+  "version": "0.0.1",
+  "description": "Combo of esbuild, Chart.js & terser to quickly and easily develop/build chart canvas bundles.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mythemeway/mtw-boilerplate-charts"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node dev.config.js",
+    "build": "node pro.config.js",
+    "terser": "node pro.config.js 1"
+  },
+  "dependencies": {
+    "esbuild": "0.14.36",
+    "terser": "5.12.1",
+    "chart.js": "3.7.1"
+  }
+}
