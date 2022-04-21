@@ -14,7 +14,7 @@
     "terser": "node pro.config.js 1"
   },
   "dependencies": {
-    "esbuild": "0.14.36",
+    "esbuild": "0.14.38",
     "terser": "5.12.1",
     "chart.js": "3.7.1"
   }
