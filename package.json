@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "esbuild": "0.14.39",
-    "terser": "5.13.1",
+    "terser": "5.14.0",
     "chart.js": "3.7.1"
   }
 }
