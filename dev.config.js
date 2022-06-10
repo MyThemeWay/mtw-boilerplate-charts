@@ -98,7 +98,7 @@ const server = createServer((req, res) => {
                 margin: 0;
                 background: #1A252F;
               }
-              .chart-container {
+              .mtw-container {
                 position: relative;
                 width: 100vw;
                 height: 100vh;
@@ -106,7 +106,7 @@ const server = createServer((req, res) => {
             </style>
           </head>
           <body>
-            <div class="chart-container">
+            <div class="mtw-container">
               <canvas id="mtw-canvas"></canvas>
             </div>
             <script src="/canvas.bundle.js"></script>
