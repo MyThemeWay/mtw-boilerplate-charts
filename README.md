@@ -12,13 +12,11 @@
 </div>
 <hr>
 
-This boilerplate allows you to quickly and easily develop chart canvas bundles. It has two modes. The result of <a title="Go there" href="#run-production-mode" >production mode</a> is a minimized bundle. You can <a title="Watch how" href="#embed-chart" >embed</a> this bundle on a website and then automatically update the chart's datasets continuously, for example.
+This boilerplate allows you to develop quickly and easily chart canvas bundles. It has two modes. The result of <a title="Go there" href="#run-production-mode" >production mode</a> is a minimized bundle. You can <a title="Watch how" href="#embed-chart" >embed</a> this bundle on a website and then automatically update the chart's datasets continuously, for example.
 
 In <a title="Go there" href="#run-development-mode" >development mode</a>, the chart files are watched. This means, if you edit them and save your changes, the charts will be recompiled and reloaded immediately. Feel free to adapt the existing charts or create a completely new one. If you need inspiration, check out [Chart.js Samples](https://www.chartjs.org/docs/latest/samples/information.html "Go there") or [Awesome Chart.js](https://github.com/chartjs/awesome#charts "Go there"). There you can see what's possible.
 
 ## | Chart Canvas Examples
-
-</div>
 
 <table>
 <td align="center" width="500px">
