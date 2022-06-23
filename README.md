@@ -193,6 +193,27 @@ Way 2: `npm run terser`	= with [terser](https://github.com/terser/terser "Check 
 >	* your <b>canvas id attribute </b> setting is only used in production mode; in development mode it is always the default `mtw-canvas`
 > * if you <b>switch/add</b> a chart in development mode, the result is displayed immediately after saving your changes
 
+## | Other Boilerplates
+<table>
+<td align="center" width="500px">
+
+<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-decks" title="Explore this" target="_blank"><img src="https://github.com/sitdisch/cloud/blob/master/gifs/mtw-boilerplate-decks.gif?raw=true" width="804"/></a>
+<a href="https://github.com/MyThemeWay/mtw-boilerplate-decks" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-decks&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905"/></a>
+
+</td>
+</table>
+
+<div align="right">
+<table>
+<td align="center" width="500px">
+
+<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-graphics" title="Explore this" target="_blank"><img src="https://github.com/sitdisch/cloud/blob/master/gifs/mtw-boilerplate-graphics.gif?raw=true" width="804"/></a>
+<a href="https://github.com/MyThemeWay/mtw-boilerplate-graphics" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-graphics&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905"/></a>
+
+</td>
+</table>
+</div>
+
 ## | Appendix
 ### Note on protected brand names and logos
 > * The use of protected brand names, trade names, utility models and brand logos on this website does not constitute an infringement of copyright; rather, it serves as an illustrative note. Even if this is not marked as such at the respective points, the corresponding legal provisions always apply.
