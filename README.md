@@ -1,6 +1,6 @@
 <div align='center'>
 <h1>MTW-BOILERPLATE-CHARTS</h1>
-<img src="https://github.com/sitdisch/cloud/blob/master/gifs/mtw-boilerplate-charts.gif?raw=true"/><br>
+<img src="https://repository-images.githubusercontent.com/481295060/f5440180-8316-4816-af25-66b544761ff8"/><br>
 <a href="https://github.com/mythemeway/mtw-boilerplate-charts/actions?query=workflow%3ACodeQL" title="Explore it" target="_blank"><img src="https://img.shields.io/github/workflow/status/mythemeway/mtw-boilerplate-charts/CodeQL?logo=github&label=CodeQL&cacheSeconds=3600" /></a>
 <img src="https://img.shields.io/github/languages/code-size/mythemeway/mtw-boilerplate-charts?label=CodeSize&cacheSeconds=3600" /><br>
 <img src="https://img.shields.io/github/repo-size/mythemeway/mtw-boilerplate-charts?label=RepoSize&cacheSeconds=3600" />
@@ -197,7 +197,7 @@ Way 2: `npm run terser`	= with [terser](https://github.com/terser/terser "Check 
 <table>
 <td align="center" width="500px">
 
-<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-decks" title="Explore this" target="_blank"><img src="https://github.com/sitdisch/cloud/blob/master/gifs/mtw-boilerplate-decks.gif?raw=true" width="804"/></a>
+<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-decks" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/505743675/a0d372b8-8f22-4373-aa0f-99fe0793743e" width="804"/></a>
 <a href="https://github.com/MyThemeWay/mtw-boilerplate-decks" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-decks&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905"/></a>
 
 </td>
@@ -207,7 +207,7 @@ Way 2: `npm run terser`	= with [terser](https://github.com/terser/terser "Check 
 <table>
 <td align="center" width="500px">
 
-<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-graphics" title="Explore this" target="_blank"><img src="https://github.com/sitdisch/cloud/blob/master/gifs/mtw-boilerplate-graphics.gif?raw=true" width="804"/></a>
+<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-graphics" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/467431589/d31c5129-c82f-4fd5-94d0-d4229a5a2dd7" width="804"/></a>
 <a href="https://github.com/MyThemeWay/mtw-boilerplate-graphics" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-graphics&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905"/></a>
 
 </td>
