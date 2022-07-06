@@ -1,6 +1,6 @@
 <div align='center'>
 <h1>MTW-BOILERPLATE-CHARTS</h1>
-<img src="https://repository-images.githubusercontent.com/481295060/f5440180-8316-4816-af25-66b544761ff8"/><br>
+<img src="https://repository-images.githubusercontent.com/481295060/7ec8fd63-8ea7-4bff-a601-4777b509c44f"/><br>
 <a href="https://github.com/mythemeway/mtw-boilerplate-charts/actions?query=workflow%3ACodeQL" title="Explore it" target="_blank"><img src="https://img.shields.io/github/workflow/status/mythemeway/mtw-boilerplate-charts/CodeQL?logo=github&label=CodeQL&cacheSeconds=3600" /></a>
 <img src="https://img.shields.io/github/languages/code-size/mythemeway/mtw-boilerplate-charts?label=CodeSize&cacheSeconds=3600" /><br>
 <img src="https://img.shields.io/github/repo-size/mythemeway/mtw-boilerplate-charts?label=RepoSize&cacheSeconds=3600" />
